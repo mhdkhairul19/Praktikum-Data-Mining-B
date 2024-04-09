@@ -1,1 +1,22 @@
-1. Membuat artikel
+PETUNJUK:
+1. UAS dikerjakan berkelompok dengan 1 kelompok terdiri dari 2 orang.
+2. Anggota kelompok dipilih sendiri dan harus berasal dari shift yang sama 
+3. UAS Praktikum Datmin adalah membuat 1 artikel/kelompok menggunakan LATEX (Template terlampir dibawah)
+4. Kriteria artikel :
+    a. Artikel merupakan karya ilmiah tentang pemodelan data mining dengan menggunakan klasifikasi atau clustering.
+    b. Setiap kelompok mencari data sendiri (data boleh sama antar kelompok tetapi harus berbeda metode).
+    c. Menggunakan metode klasifikasi atau clustering yang sudah dipelajari maupun yang belum dipelajari di praktikum.
+    d. Boleh membandingkan 2 metode baik klasifikasi ataupun clustering.
+5. Artikel harus berisikan:
+    a. Judul
+    b. Abstrak
+    c. Pendahuluan (terdiri dari general statement, literature review, research gap, hipotesis, dan novelty)
+    d. Metodologi Penelitian (subbab opsional)
+    c. Hasil dan Pembahasan (subbab opsional)
+    d. Kesimpulan
+    e. Daftar Pustaka
+6. Batas pengerjaan adalah 10 hari dihitung pada hari pertama UAS Praktikum Datmin
+
+Lampiran:
+Template : https://www.overleaf.com/read/whhjtcmycthj#b51504
+Projek yang sudah selesai : https://www.overleaf.com/read/ddbfksbxxxsx#66ac23
